@@ -33,7 +33,7 @@ Evidencias a tener en cuenta:
 
 Resultado de la parte mandatory:
 
-![minitalk mandatory](./Img/minitalk.gif "minitalk mandatory")
+![minitalk mandatory](./img/minitalk.gif "minitalk mandatory")
 
 ## Parte bonus
 
@@ -41,7 +41,7 @@ Para la parte bonus se pide que el servidor responda al cliente y que sepa inter
 
 En esta implementación el servidor responde con un SIGUSR2 en caso de recibirlo correctamente y el cliente representa un ✅ cada vez que recibe este ack.
 
-![minitalk bonus](./Img/minitalk_bonus.gif "minitalk bonus")
+![minitalk bonus](./img/minitalk_bonus.gif "minitalk bonus")
 
 # 📋 BIBLIOGRAFIA
 
