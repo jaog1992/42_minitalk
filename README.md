@@ -33,7 +33,7 @@ Evidencias a tener en cuenta:
 
 Resultado de la parte mandatory:
 
-![minitalk mandatory](https://github.com/jaog1992/42_minitalk/tree/master/img/minitalk.gif)
+![](https://github.com/jaog1992/42_minitalk/tree/master/img/minitalk.gif)
 
 ## Parte bonus
 
@@ -41,7 +41,8 @@ Para la parte bonus se pide que el servidor responda al cliente y que sepa inter
 
 En esta implementación el servidor responde con un SIGUSR2 en caso de recibirlo correctamente y el cliente representa un ✅ cada vez que recibe este ack.
 
-![minitalk mandatory](https://github.com/jaog1992/42_minitalk/tree/master/img/minitalk_bonus.gif "minitalk bonus")
+![](https://github.com/jaog1992/42_minitalk/tree/master/img/minitalk_bonus.gif)
+
 # 📋 BIBLIOGRAFIA
 
 * [Estructura sigaction (tambien sale en el man)](https://www.qnx.com/developers/docs/6.5.0SP1.update/com.qnx.doc.neutrino_lib_ref/s/sigaction_struct.html)
